@@ -1,0 +1,25 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/indorifame",
+    "prod_uri": "mysql://root:@localhost/indorifame",
+    "fb_url": "https://facebook.com/indorifame",
+    "tw_url":"https://instagram.com/indorifame_",
+    "gh_url": "https://",
+    "blog_name": "Indorifame_",
+    "tag_line":"A Indorians Blog",
+    "gmail-user": "devendrarathore144@gmail.com",
+    "gmail-password": "",
+    "about_text": "My name is devendra singh Rathore iam creating coding videos",
+    "no_of_posts":2,
+    "admin_user": "dev",
+    "admin_password": "subscribe",
+    "upload_location":"C:\\Users\\user\\PycharmProjects\\indorifame"
+
+
+
+  }
+
+
+}
